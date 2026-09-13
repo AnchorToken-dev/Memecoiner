@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DRACO",
+      "hasCanvas": false,
+      "bodyTextLen": 2251,
+      "bodyTextHash": "d7d9aedc315da443eb7c7eaa715643a87b54c0a93ea6a41663de20f96c9efe80",
+      "bodyTextPrefix": "DRACO The code Launches About Connect Telegram GEORGIA, USA · CO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DRACO",
+      "hasCanvas": false,
+      "bodyTextLen": 2210,
+      "bodyTextHash": "cb2383c8c1a925ac1fc05cc183085b74e5ae6e204cc8d56d4e1d60495a506ace",
+      "bodyTextPrefix": "DRACO GEORGIA, USA · COMPUTER TECHNICIAN DRACO I got tired of ge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
